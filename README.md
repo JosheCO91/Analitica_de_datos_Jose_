@@ -3,3 +3,5 @@ Repositorio para los trabajos de Analítica De Datos
 
 # Paso uno 
 Comando python -m venv .venv
+
+# Paso dos - Activar el entorno virtual
